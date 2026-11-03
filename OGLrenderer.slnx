@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="OGLrenderer/OGLrenderer.vcxproj" />
+  <Project Path="OGLrenderer/OGLrenderer.vcxproj" Id="15b3f012-883a-4117-878a-2c3598b0a1b7" />
 </Solution>
